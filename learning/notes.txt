@@ -1,0 +1,10 @@
+Go is pass by value language
+Value types:
+int, float, string, bool, structs
+Use pointers while passing these to functions
+Reference types:
+slice, map, channel, pointers, functions
+Need not use pointers while passing to function
+
+Slices point to an underlying array
+Slicing an array or slice creates a new slice, pointing to the original array
